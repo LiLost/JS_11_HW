@@ -1,2 +1,2 @@
-# JS_11_HW
+# Analytics
 https://lilost.github.io/JS_11_HW/
